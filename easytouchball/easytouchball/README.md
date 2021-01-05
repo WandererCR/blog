@@ -60,6 +60,3 @@ typedef NS_ENUM(NSInteger, Jht_StayMode) {
 @property (nonatomic, assign) CGFloat stayAlpha;
 ```
 
-* 具体使用详见demo（使用demo之前请先 **pod install** ）
-
-
