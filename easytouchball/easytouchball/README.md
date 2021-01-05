@@ -1,8 +1,5 @@
 ## FloatingBall
 
-### 一言不合就上图
-<img src="https://raw.githubusercontent.com/jinht/FloatingBall/master/ReadMEImages/JhtFloatingBall.gif" width=250 height=445 /> <br>
-
 
 ### Function Description
  1. 轻量级UI控件
@@ -66,12 +63,3 @@ typedef NS_ENUM(NSInteger, Jht_StayMode) {
 * 具体使用详见demo（使用demo之前请先 **pod install** ）
 
 
-### Remind
-* ARC
-* iOS >= 8.0
-* iPhone \ iPad 
-
-
-## Hope
-* If you find bug when used，Hope you can Issues me，Thank you or try to download the latest code of this framework to see the BUG has been fixed or not
-* If you find the function is not enough when used，Hope you can Issues me，I very much to add more useful function to this framework ，Thank you !
